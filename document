@@ -1,0 +1,30 @@
+Requirement:
+
+for user: 
+
+1. Log in screen
+2. User information like his photo 
+3. closed groups, 
+4. upcomming awards
+5. awards won
+6. user passbook
+7. next upcomming installment
+
+
+For admin:
+1. admin user name and password
+2. add the payment done 
+3. add the winner 
+4. add the testimonials
+
+
+
+Technical tasks:
+1. working in login module
+2. Database and table creation => for this requirement must be very clear
+3. user interface creation
+4. Apache setup
+5. tomcat and database setup :  Done
+6. deplyment of the above technology stack on cloud  : Till now i found that hosting raja provides Rs 6000 per year of web hosting. This will be needed when my tech work will be completer and we will be going live.
+7. User interface design 
+
