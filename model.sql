@@ -9,6 +9,7 @@ CREATE TABLE user (
     password varchar (255),
     incorrect_attempts int,
     status boolean default 1,
+    role varchar(255),
     PRIMARY KEY (ID)
 );
 create unique index userNameIdx on user(username);
